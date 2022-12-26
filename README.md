@@ -1,4 +1,4 @@
-<div >
+<div>
   <h4>Hi there,I'm Halit</h4>
   <h3>I'm a nodejs and web developer</h3>
 </div>
@@ -28,11 +28,18 @@
 
 <div>
   <h2>My sites that I only use for testing purposes</h2>
-  <ul>
-    <li>
-      <a href="https://hello-cristmas-2023.vercel.app/">
-       <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/44914786?s=200&amp;v=4" width="25" height="25" alt="@withastro">
+    <h2>
+      <a href="https://hello-cristmas-2023.vercel.app/" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
+       <img itemprop="image"  src="https://avatars.githubusercontent.com/u/44914786?s=200&amp;v=4" width="20" height="20" alt="@withastro">
+       <img
+            itemprop="image" 
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+      title="React"
+      alt="React"
+      width="20"
+      height="20"
+    />
         Hello Cristmas<a/>
-    </li>
-  </ul>
+   <h2>
 </div>
+
