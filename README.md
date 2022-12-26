@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <h2>My Test Sites</h2>
+  <h2>My sites that I only use for testing purposes</h2>
   <ul>
     <li>
       <a href="https://hello-cristmas-2023.vercel.app/">Hello Cristmas<a/>
