@@ -30,7 +30,9 @@
   <h2>My sites that I only use for testing purposes</h2>
   <ul>
     <li>
-      <a href="https://hello-cristmas-2023.vercel.app/">Hello Cristmas<a/>
+      <a href="https://hello-cristmas-2023.vercel.app/">
+       <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/44914786?s=200&amp;v=4" width="25" height="25" alt="@withastro">
+        Hello Cristmas<a/>
     </li>
   </ul>
 </div>
