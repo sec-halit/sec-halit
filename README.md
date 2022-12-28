@@ -39,7 +39,7 @@
       width="20"
       height="20"
     />
-        Hello Cristmas<a/>
+        Hello Cristmas</a>
    <h2>
       <h2>
       <a href="https://currency-converter.webinorder.com" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
@@ -53,7 +53,7 @@
       width="20"
       height="20"
     />
-       Money Converter<a/>
+       Money Converter</a>
    <h2>
 </div>
 
