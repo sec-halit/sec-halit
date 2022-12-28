@@ -29,30 +29,20 @@
 <div>
   <h2>My sites that I only use for testing purposes</h2>
     <h2>
-      <a href="https://2023-cristmas.webinorder.com" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
+      <a href="https://2023-cristmas.webinorder.com" class="flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
        <img itemprop="image"  src="https://avatars.githubusercontent.com/u/44914786?s=200&amp;v=4" width="20" height="20" alt="@withastro">
-       <img
-            itemprop="image" 
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-      title="React"
+       <img itemprop="image" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"                  title="React"
       alt="React"
       width="20"
       height="20"
-    />
-        Hello Cristmas</a>
+    />Hello Cristmas</a>
    <h2>
       <h2>
-      <a href="https://currency-converter.webinorder.com" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
+      <a href="https://currency-converter.webinorder.com" class="flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="20" height="20"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass Compiler" alt="Sass Compiler" width="20" height="20"/>
-       <img
-            itemprop="image" 
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-      title="React"
-      alt="React"
-      width="20"
-      height="20"
-    />
+       <img itemprop="image"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+      title="React" alt="React"  width="20"  height="20" />
        Money Converter</a>
    <h2>
 </div>
