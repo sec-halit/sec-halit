@@ -37,3 +37,14 @@
  &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="20" height="20"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass Compiler" alt="Sass Compiler" width="20" height="20"/>&nbsp;<img itemprop="image"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React"  width="20"  height="20" />&nbsp;
 <a href="https://currency-converter.webinorder.com" class="flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4">Money Converter</a>
 </div>
+<div>
+<h2> Old Github </h2>
+<ul>
+  <li>
+    https://github.com/xamarinhalit
+  </li>
+    <li>
+    https://github.com/flowhalit
+  </li>
+</ul>
+</div>
