@@ -56,8 +56,7 @@ Before I started my business career, I was learned to code for 4 years. Being a 
 <p align="left"> <a href="https://currency-converter.webinorder.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="32" height="32" alt="Sass" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="32" height="32" alt="Redux" /></a>
 </p>
 
-<p align="left"> <a href="https://sidebar-gules.vercel.app" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44914786?s=200&amp;v=4" width="32" height="32" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="32" height="32" alt="NextJs" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" /></a>
-</p>
+
 
 ### Badges
 
